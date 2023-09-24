@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드%20개발자%20박종권입니다.&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드%20개발자%20박종권입니다.&fontSize=70" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
