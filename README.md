@@ -1,2 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%%20백엔드%20개발자%20박종권입니다.&fontSize=90)
