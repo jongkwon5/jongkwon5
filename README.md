@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드 개발자 박종권입니다.&fontSize=50" />	
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Travel%20Together&fontSize=90)
 
 <div align=center>
         <h3>📚 Tech Skill 📚</h3>
