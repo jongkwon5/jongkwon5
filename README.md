@@ -37,5 +37,5 @@
 <div align=center>
 	<h3>👋 INFO 👋</h3>
 	<p> Email : jongkwong@naver.com</p>
-	<p> Resume : <link rel="stylesheet" href="editormd/css/editormd.css" /></p>
+	[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
 </div>
