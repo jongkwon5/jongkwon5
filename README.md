@@ -1,4 +1,4 @@
-    <div align=center>
+<div align=center>
         <h3>📚 Tech Skill 📚</h3>
         <p>✨ Platforms & Languages ✨</p>
     </div>
