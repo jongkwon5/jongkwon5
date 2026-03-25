@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=백엔드%20개발자%20박종권입니다.&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20개발자%20박종권입니다.&fontSize=60)
 
 <div align=center>
         <h3>📚 Tech Skill 📚</h3>
